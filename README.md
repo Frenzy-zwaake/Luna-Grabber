@@ -3,8 +3,6 @@
 </h1>
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
-  <br>
   <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
   <br>
   <img  src="https://img.shields.io/github/issues/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
@@ -74,7 +72,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 
 ```
 Run The "Frenzy-Grabber.exe" File 
-
+```
 ### 3. Create A Webhook:
 
 ```
